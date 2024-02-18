@@ -32,4 +32,7 @@ Author: Mori-lab2705 <morihiro2705@gamil.com>
 Date:   Sun Feb 18 13:04:48 2024 +0900
 
     hello_world.txtを追加
+ishidamorihiro@ishidamoridainoMacBook-Pro git_challenge % git log --oneline 
+c57751f (HEAD -> master) 日本語訳を追記
+659cd35 hello_world.txtを追加
 ishidamorihiro@ishidamoridainoMacBook-Pro git_challenge % 
