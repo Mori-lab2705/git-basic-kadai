@@ -1,1 +1,12 @@
-
+ishidamorihiro@ishidamoridainoMacBook-Pro git_challenge % git init
+Reinitialized existing Git repository in /Users/ishidamorihiro/Desktop/git_challenge/.git/
+ishidamorihiro@ishidamoridainoMacBook-Pro git_challenge % git add hello_world.txt 
+ishidamorihiro@ishidamoridainoMacBook-Pro git_challenge % git commit -m 日本語訳を追記
+[master (root-commit) b4310f5] 日本語訳を追記
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+ishidamorihiro@ishidamoridainoMacBook-Pro git_challenge % git add hello_world.txt 
+ishidamorihiro@ishidamoridainoMacBook-Pro git_challenge % git commit -m hello_world.txtを追加
+[master a346191] hello_world.txtを追加
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+ishidamorihiro@ishidamoridainoMacBook-Pro git_challenge % 
